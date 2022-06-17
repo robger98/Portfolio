@@ -6,7 +6,7 @@ This is a collection of a few project I have worked on, mostly for classes I hav
 This project focused on performing different methods of bayesian inference, namely exact inference (enumeration ask), likelihood weighting, and Gibbs sampling. 
 
 ## CNN Project
-This is a simple project I made as a TA for Advanced AI. It explores using CNNs for image classifcation on the fashion-MNIST dataset. This makes use of tensorflow.
+This is a simple project I made as a TA for an Advanced AI course. It explores using CNNs for image classifcation on the fashion-MNIST dataset. The goal was to provide a gentle introduction into both CNNs and Tensorflow.
 
 ## Constraint Satisfaction
 This project is an implementation of the a CSP solver algorithm, with various extensions, including AC-3 and 3 variable ordering methods. It is set to run on sudoku and synthetically generated constraint problems.
